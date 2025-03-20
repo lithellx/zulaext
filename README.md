@@ -1,4 +1,4 @@
-## About zulaext
+## About ZulaExt
 External ESP and Aimbot project for Zula. 
 
 Made just for fun. You can do whatever you want with it.
