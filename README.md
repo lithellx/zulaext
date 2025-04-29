@@ -5,7 +5,7 @@ Made just for fun. You can do whatever you want with it.
 
 [![ZulaAimbot](https://img.shields.io/github/downloads/lithellx/zulaext/total?style=for-the-badge&label=zulaext%20Downloads&color=red)](https://github.com/lithellx/zulaext/releases)
 
-## Video
+## How to use
 <a href="https://streamable.com/nimbcy">
     <img src="https://cdn-cf-east.streamable.com/image/nimbcy.jpg" width="640" height="360"/>
 </a>
