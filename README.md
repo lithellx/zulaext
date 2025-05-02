@@ -15,5 +15,12 @@ Made just for fun. You can do whatever you want with it.
 3. Run zulaext.exe<br>
 4. Have fun
 
+If you're facing with "Your vulnerable driver list is enabled" output, copy the code below and save it as ".reg" file then execute it.
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Config]
+"VulnerableDriverBlocklistEnable"=dword:00000000
+```
 ## Authors
 [lithellx](https://github.com/lithellx)
