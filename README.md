@@ -9,10 +9,10 @@ Made just for fun. You can do whatever you want with it.
 <a href="https://streamable.com/nimbcy">
     <img src="https://cdn-cf-east.streamable.com/image/nimbcy.jpg" width="640" height="360"/>
 </a>
-
-1. Drag and drop zulaext_drv.sys on kdmapper_Release.exe (You can do it with cmd to see if driver is successfully mapped)
-2. Run Zula game
-3. Run zulaext.exe
+<br><br>
+1. Drag and drop zulaext_drv.sys on kdmapper_Release.exe (You can do it with cmd to see if driver is successfully mapped)<br>
+2. Run Zula game<br>
+3. Run zulaext.exe<br>
 4. Have fun
 
 ## Authors
