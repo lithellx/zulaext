@@ -14,14 +14,22 @@ Made just for fun. You can do whatever you want with it.
 2. Run Zula game<br>
 3. Run zulaext.exe<br>
 4. Have fun
-<br><br>
-NOTE: If you're facing with "Your vulnerable driver list is enabled" output, copy the code below and save it as ".reg" file then execute it.
 
+<br>
+
+## Known errors and solutions
+Error: Your vulnerable driver list is enabled and have blocked the driver loading, you must disable vulnerable driver list to use kdmapper with intel driver
+<br>
+Solution: Copy the code below and save it as ".reg" file then execute it.
 ```
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Config]
 "VulnerableDriverBlocklistEnable"=dword:00000000
 ```
+<br>
+Error: Access Denied or Insufficient Resources (0xc000009a), Probably some anticheat or antivirus running blocking the load of vulnerable driver
+Solution: Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc. 
+
 ## Authors
 [lithellx](https://github.com/lithellx)
