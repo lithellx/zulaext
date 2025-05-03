@@ -14,8 +14,9 @@ Made just for fun. You can do whatever you want with it.
 2. Run Zula game<br>
 3. Run zulaext.exe<br>
 4. Have fun
+<br><br>
+NOTE: If you're facing with "Your vulnerable driver list is enabled" output, copy the code below and save it as ".reg" file then execute it.
 
-If you're facing with "Your vulnerable driver list is enabled" output, copy the code below and save it as ".reg" file then execute it.
 ```
 Windows Registry Editor Version 5.00
 
