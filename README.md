@@ -29,6 +29,7 @@ Windows Registry Editor Version 5.00
 ```
 <br>
 Error: Access Denied or Insufficient Resources (0xc000009a), Probably some anticheat or antivirus running blocking the load of vulnerable driver
+
 Solution: Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc. 
 
 ## Authors
