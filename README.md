@@ -21,15 +21,14 @@ Made just for fun. You can do whatever you want with it.
 ## Known errors and solutions
 Error: Your vulnerable driver list is enabled and have blocked the driver loading, you must disable vulnerable driver list to use kdmapper with intel driver
 <br>
-Solution 1: Copy the code below and save it as ".reg" file then execute it.
+Solution: Turn off "Core Isolation" and "Vulnerable Driver Blocklist" options on Windows security settings. And restart your PC afterwards.
+To disable Vunlerable Driver Blocklist easily, copy the code below and save it as ".reg" file then execute it.
 ```
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Config]
 "VulnerableDriverBlocklistEnable"=dword:00000000
 ```
-
-Solution 2: Turn off "Core Isolation" option on Windows settings.
 <hr>
 Error: Access Denied or Insufficient Resources (0xc000009a), Probably some anticheat or antivirus running blocking the load of vulnerable driver
 
