@@ -64,7 +64,12 @@ void processCheat(uint32_t pEntity, Vector RootPos, float distance, bool isTeamV
 
 		if (lithellx.esp.line) {
 			Vector target = (lineSelected == 0) ? vFeet : (lineSelected == 1) ? vRoot : vHead;
-			DrawLine(ScreenCenterX, ScreenCenterY + ((lineSelected == 2) ? -static_cast<int>(ScreenCenterY) : ScreenCenterY), target.x, target.y, &Col.white, 1);
+		
+			int startY = (lineSelected == 0) ? ScreenCenterY * 2 :    // Bottom
+				(lineSelected == 1) ? ScreenCenterY :        // Middle
+				0;                                            // Top
+		
+			DrawLine(ScreenCenterX, startY, target.x, target.y, &Col.white, 1);
 		}
 
 		if (lithellx.esp.box) {
