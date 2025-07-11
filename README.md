@@ -1,4 +1,4 @@
-## About ZulaExt - DETECTED
+## About ZulaExt
 
 External ESP and Aimbot project for Zula.
 
