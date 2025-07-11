@@ -11,10 +11,10 @@ Made just for fun. You can do whatever you want with it.
     <img src="https://cdn-cf-east.streamable.com/image/nimbcy.jpg" width="640" height="360"/>
 </a>
 <br><br>
-1. Drag and drop zulaext_drv.sys on kdmapper_Release.exe (You can do it with cmd to see if driver is successfully mapped)<br>
-2. Run Zula game<br>
-3. Run zulaext.exe<br>
-4. Have fun
+1. Load zulaext_drv.sys with XorMapper (get it from my Discord server) or any other mapper.<br>
+2. Run the game and wait until the main screen.<br>
+3. Run zulaext.exe as administrator on lobby.<br>
+4. Press "Insert" key on your keyboard and have fun.
 
 <br>
 
