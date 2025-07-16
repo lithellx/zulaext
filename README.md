@@ -1,10 +1,7 @@
 ## About ZulaExt
 
-External ESP and Aimbot project for Zula.
-
+External ESP and Aimbot project for Zula.<br>
 Made just for fun. You can do whatever you want with it.
-
-[![ZulaAimbot](https://img.shields.io/github/downloads/lithellx/zulaext/total?style=for-the-badge&label=zulaext%20Downloads&color=red)](https://github.com/lithellx/zulaext/releases)
 
 ## Before loading the driver:
 1. Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc.<br>
@@ -21,6 +18,8 @@ NOTE: XorMapper will not map the driver on 24H2. You need to find another mapper
 2. Run the game and wait until the main screen.<br>
 3. Run zulaext.exe as administrator on lobby.<br>
 4. Press "Insert" key on your keyboard and have fun.
+
+<br>[![ZulaExt](https://img.shields.io/github/downloads/lithellx/zulaext/total?style=for-the-badge&label=zulaext%20Downloads&color=red)](https://github.com/lithellx/zulaext/releases)
 
 ## Authors
 [lithellx](https://github.com/lithellx)
