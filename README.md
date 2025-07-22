@@ -15,7 +15,7 @@ And restart your PC afterwards.
 <br><br>
 NOTE: XorMapper will not map the driver on 24H2. You need to find another mapper.<br><br>
 1. Load zulaext_drv.sys with XorMapper (get it from my Discord server) or any other mapper.<br>
-2. Run the game <u><b>AS WINDOWED OR WINDOWED FULLSCREEN</b></u> and wait until the main screen.<br>
+2. Run the game <b>AS WINDOWED OR WINDOWED FULLSCREEN</b> and wait until the main screen.<br>
 3. Run zulaext.exe as administrator on lobby.<br>
 4. Press "Insert" key on your keyboard and have fun.
 
