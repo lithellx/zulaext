@@ -5,7 +5,7 @@ Made just for fun. You can do whatever you want with it.
 
 **Status:** Undetected  
 **Supported OS:** Windows 10 & Windows 11  
-**Compatibility:** Works flawlessly on all servers  
+**Compatibility:** Works on all servers  
 
 ## Before loading the driver:
 1. Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc.<br>
