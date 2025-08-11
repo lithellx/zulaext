@@ -5,6 +5,7 @@ Made just for fun. You can do whatever you want with it.
 
 ## Status
 Undetected
+
 Works on: Windows 10 & 11
 
 ## Before loading the driver:
