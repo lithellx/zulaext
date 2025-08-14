@@ -22,6 +22,11 @@ And restart your PC afterwards.
 3. Run cheat as administrator on lobby.<br>
 4. Press "Insert" key on your keyboard and have fun.
 
+## Problems & Solutions
+- **Mapper failed. Error code: 2**
+  
+  This error means the vuln driver that kdmapper is trying to load already exists on your system. To fix this error download & run [this](https://github.com/VollRagm/NalFix/releases) program that developed by VollRagm.
+
 <br>[![ZulaExt](https://img.shields.io/github/downloads/lithellx/zulaext/total?style=for-the-badge&label=zulaext%20Downloads&color=red)](https://github.com/lithellx/zulaext/releases)
 
 ## Authors
