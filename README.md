@@ -11,7 +11,7 @@ Made just for fun. You can do whatever you want with it.
 1. Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc.<br>
 2. Turn off "Core Isolation" and "Vulnerable Driver Blocklist" options on Windows security settings.<br>
 And restart your PC afterwards.
-<br><br>
+
 ## How to use
 <a href="https://streamable.com/nimbcy">
     <img src="https://cdn-cf-east.streamable.com/image/nimbcy.jpg" width="640" height="360"/>
