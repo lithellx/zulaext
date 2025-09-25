@@ -1,4 +1,4 @@
-## NEW UPDATES ON: https://xorbyte.org
+## NEW UPDATES ON (Wallhack, No Recoil): https://xorbyte.org
 
 ## About ZulaExt
 
