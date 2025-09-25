@@ -1,6 +1,6 @@
-## About ZulaExt
+## NEW UPDATES ON: https://xorbyte.org
 
-NEW UPDATES ON: https://xorbyte.org
+## About ZulaExt
 
 External ESP and Aimbot project for Zula.<br>
 Made just for fun. You can do whatever you want with it.
