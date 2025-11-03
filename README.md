@@ -1,4 +1,4 @@
-## DOWNLOAD NEW UD VERSION ON (Wallhack, No Recoil): https://xorbyte.org
+## Download (More Features): https://xorbyte.org
 
 ## About ZulaExt
 
