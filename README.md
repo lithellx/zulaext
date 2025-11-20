@@ -1,5 +1,3 @@
-## Download (More Features): https://xorbyte.org
-
 ## About ZulaExt
 
 External ESP and Aimbot project for Zula.<br>
