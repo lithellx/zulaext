@@ -3,10 +3,6 @@
 External ESP and Aimbot project for Zula.<br>
 Made just for fun. You can do whatever you want with it.
 
-**Status:** Undetected  
-**Supported OS:** Windows 10 & Windows 11  
-**Compatibility:** Works on all servers  
-
 ## Before loading the driver:
 1. Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc.<br>
 2. Turn off "Core Isolation" and "Vulnerable Driver Blocklist" options on Windows security settings.<br>
