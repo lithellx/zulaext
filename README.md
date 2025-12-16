@@ -3,27 +3,13 @@
 External ESP and Aimbot project for Zula.<br>
 Made just for fun. You can do whatever you want with it.
 
-## Before loading the driver:
-1. Make sure you deactivated Windows Defender Real Time Protection, Riot Vanguard, Faceit Anticheat etc.<br>
-2. Turn off "Core Isolation" and "Vulnerable Driver Blocklist" options on Windows security settings.<br>
-And restart your PC afterwards.
+## How to use:
+[Watch Tutorial Video](https://www.youtube.com/watch?v=Tj5hlE83s1U)<br><br>
+Sign up to [XorByte](https://xorbyte.org/), go to dashboard and download the launcher from top right.
 
-## How to use
-<a href="https://streamable.com/nimbcy">
-    <img src="https://cdn-cf-east.streamable.com/image/nimbcy.jpg" width="640" height="360"/>
-</a>
-<br><br>
-1. Load zulaext_drv.sys with kdmapper (get it from my Discord server).<br>
+1. Disable your anti-virus protection & memory integration settings.
 2. Run the game <b>AS WINDOWED OR WINDOWED FULLSCREEN</b> and wait until the main screen.<br>
-3. Run cheat as administrator on lobby.<br>
-4. Press "Insert" key on your keyboard and have fun.
 
-## Problems & Solutions
-- **Mapper failed. Error code: 2**
-  
-  This error means the vuln driver that kdmapper is trying to load already exists on your system. To fix this error download & run [this](https://github.com/VollRagm/NalFix/releases) program that developed by VollRagm.
-
-<br>[![ZulaExt](https://img.shields.io/github/downloads/lithellx/zulaext/total?style=for-the-badge&label=zulaext%20Downloads&color=red)](https://github.com/lithellx/zulaext/releases)
-
-## Authors
-[lithellx](https://github.com/lithellx)
+## Details:
+Works on all servers.
+Supports Win 10 & 11.
